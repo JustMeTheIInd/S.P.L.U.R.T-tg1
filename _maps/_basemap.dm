@@ -25,6 +25,8 @@
 		#include "map_files\moonstation\moonstation.dmm"
 		#include "map_files\BoxStation\BoxStation.dmm"
 		// BUBBER EDIT ADDITION END
+		// SPLURT addition
+		#include "map_files\EvoStation\EvoStation - Copy.dmm"
 	#endif
 	#ifdef ALL_TEMPLATES
 		#include "templates.dm"
